@@ -2,7 +2,8 @@
 
 ### Overview
 
-[Exploratory Study on Algorithmic Stablecoins and Stablecoin Alternatives]
-
-Michelle Patton, Justin Gaffney, [Jeet], [Giulia Scaffino], [ Ali]
-Students of UC Berkely-Sponsored Inaugural DeFi MOOC 2021
+[Exploratory Study on Stablecoins and Asset Pool
+Reserve Alternatives]
+Justin Gaffney
+Student of UC Berkely-Sponsored Inaugural DeFi MOOC 2021
+{ defi-learning.org }
